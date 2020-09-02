@@ -1,1 +1,1 @@
-Print("File 1 - Hello World")
+print("Hello world")
